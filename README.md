@@ -1,14 +1,14 @@
 # Pre-Placement-Module-2023
 
-- Name: 
-- University Roll No.:
-- Branch:
+- Name: Pranav Sharma   
+- University Roll No.: 1900290400084
+- Branch: ME
 - Section:
-- Preferred Programming Language: C++/Java/Python
+- Preferred Programming Language: Python
 
 ## Coding Profiles
-- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/YourLeetCodeUserName/)
-- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/HackerRankUserName)
+- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/pranav00084/)
+- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/pranav00084)
 
 ## Placement Module
 1. [DS I](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I)
